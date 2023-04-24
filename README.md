@@ -19,7 +19,7 @@ Results (Optimal vs Player)| Results (Reveal Button Rewards)
 
 ## Usage
 To run the WebApp, follow the instructions below,
-```
+```console
 # Clone Repo
 git clone https://github.com/RishiDarkDevil/MDP-Multi-Armed-Bandit.git
 cd MDP-Multi-Armed-Bandit
