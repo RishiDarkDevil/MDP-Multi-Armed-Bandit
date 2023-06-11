@@ -1,4 +1,4 @@
-# MDP-Multi-Armed-Bandit
+# Markov Decision Processes: Multi Armed Bandit
 This is a Multi-Armed Bandit Web App on Streamlit. This app was a part of my [Talk on Markov Decision Processes](https://docs.google.com/presentation/d/e/2PACX-1vRD31VFnXp7ni_sY67V75UOx7hs-fQ402Z-NavxEeHU6miS5LnGwCOnv0FkzfHSQfDQUS5nn991nlxn/pub?start=false&loop=false&delayms=3000).
 
 ### Game Screenshots
